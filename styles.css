@@ -1,0 +1,25 @@
+body{
+    background: #00afc7;
+    margin: 1rem;
+    font-family: Open-Sans;
+}
+
+.header{
+    padding: 14px;
+    text-align: center;
+}
+
+.footer{
+    position: absolute;
+    bottom: 5px;
+}
+
+
+@media only screen and (max-width: 768px) {
+    body {
+        background-color: #bfce51;
+        font-family: Open-Sans;
+        margin: 1rem;
+    }
+}
+
